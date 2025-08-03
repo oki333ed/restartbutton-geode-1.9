@@ -1,10 +1,8 @@
 {
-	"geode": "4.3.1",
+	"geode": "4.7.0",
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"win": "1.920",
+		"android": "1.920"
 	},
 	"version": "v1.2.2",
 	"id": "weebify.restartbtn",
@@ -32,13 +30,6 @@
                 "slider": true,
 				"slider-step": 0.01
 			}
-		},
-		"keybind_anywhere": {
-			"name": "Keybind works anywhere",
-			"description": "...except the editor",
-			"type": "bool",
-			"default": false,
-			"platforms": ["win", "android", "mac"]
 		},
 		"exit": {
 			"name": "Show Exit button",
